@@ -1,5 +1,9 @@
-# fcontext CLI releases
+# Financial Context CLI
 
-This public repository hosts release artifacts for the fcontext command-line interface.
+Install `fcontext-cli` to use the `fcontext` command and the `fctx` short alias.
 
-Source code is maintained separately. Installers and package-manager manifests are attached to GitHub Releases.
+```bash
+curl -sSL https://github.com/aitaport/fcontext-cli/releases/latest/download/install.sh | sh
+```
+
+Release assets and package-manager manifests are published on the Releases page.
